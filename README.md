@@ -12,4 +12,10 @@ Para esse projeto foi utilizado
 - CSS
 - Javascript
 
+## Apresentação 🎬
+
+Pode ver como é o funcionamento nesse pequeno vídeo
 ![](https://github.com/CristianoDaSilvaFerreira/Responsive-Image-Slider/blob/main/move-play.gif)
+
+Ou se achar melhor pode testa ele aqui <a href="https://cristianodasilvaferreira.github.io/Responsive-Image-Slider/" target="_blank">Slideshow</a>
+
