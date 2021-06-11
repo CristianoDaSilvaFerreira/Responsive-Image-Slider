@@ -11,3 +11,5 @@ Para esse projeto foi utilizado
 - HTML 
 - CSS
 - Javascript
+
+![](https://github.com/CristianoDaSilvaFerreira/Responsive-Image-Slider/blob/main/move-play.gif)
